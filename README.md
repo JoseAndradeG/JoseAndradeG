@@ -1,6 +1,6 @@
 # José Alexander Andrade G.
 ## Acerca de mi
-Profesional con más de 20 años de experiencia en análisis de sistemas, especializado en la resolución de problemas de hardware y software para el desarrollo y puesta punto de sistemas informáticos. Adiestramiento del potencial humano en el uso de herramientas ofimáticas, 
+Profesional de Informatica con amplia experiencia en análisis de sistemas, especializado en la resolución de problemas de hardware y software para el desarrollo y puesta punto de sistemas informáticos. Adiestramiento del potencial humano en el uso de herramientas ofimáticas, 
 
 ### 📞Contactame:
 - 🔵 www.linkedin.com/in/joseandrade1970
@@ -9,7 +9,7 @@ Profesional con más de 20 años de experiencia en análisis de sistemas, especi
 - #️⃣ @PcMcy
 
 # Experiencia Laboral #
-- Grupo 3PL Panamericana
+- G3 Logistica c.a.
 - Drogeria Farvenca
 - CeproAlarm
 - Grupo Lony
